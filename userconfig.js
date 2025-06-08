@@ -12,7 +12,7 @@ const default_config = {
     iconColor: palette.maroon,
   },
   disabled: [],
-  fastlink: "",
+  fastlink: "https://gzod01.fr",
   openLastVisitedTab: false,
   tabs: [
     {
