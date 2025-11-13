@@ -4,7 +4,7 @@ const palette = macchiato;
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "Alicante",
+    location: "Saint-Aubin Sur Gaillon",
     scale: "C",
   },
   clock: {
